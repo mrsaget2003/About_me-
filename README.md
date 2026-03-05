@@ -9,10 +9,10 @@
 
 ## 🚀 About Me
 
-I'm a Haitian student exploring the intersection between **technology, creativity, and law**.  
+I'm a Computer sciences and Law's student exploring the intersection between « technology, creativity, and law ».  
 I enjoy building digital projects, learning new technologies, and improving my skills every day.
 
-I believe code is more than logic — it's a way to **create ideas that move the future forward**.
+I believe code is more than logic — it's a way to "create ideas that move the future forward" 
 
 ---
 
